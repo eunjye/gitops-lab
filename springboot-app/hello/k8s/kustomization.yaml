@@ -9,4 +9,4 @@ resources:
 images:
 - name: eunjye2/hello-app
   newName: eunjye2/hello-app
-  newTag: 7ea8ce1
+  newTag: 216ac2f
